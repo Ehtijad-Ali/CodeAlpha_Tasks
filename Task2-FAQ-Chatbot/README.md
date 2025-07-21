@@ -1,7 +1,3 @@
-Sure! Here's a clean and professional **README.md** file for your WordPress FAQ Chatbot **without code samples**:
-
----
-
 # ✨ WordPress FAQ Chatbot
 
 An intelligent and interactive FAQ chatbot designed to help users quickly find answers to common WordPress-related questions. Built using Gradio, NLTK, and scikit-learn, it provides an engaging user experience through a visually appealing and responsive interface.
